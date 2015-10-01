@@ -3,7 +3,7 @@ Secure Empty Trash under OS X for Hard Disk Drives
 
 In OS X 10.11 El Capitan Apple has removed the option to securely empty the trash. 
 This script can do this for you – as long as you have a HDD (Hard Disk Drive). 
-Solid State Drives are not supported by this, and it is useless to run this script on an SSD.
+Solid State Drives are not supported by this, and it is useless to run this script on a SSD.
 
 This comes with no warranty. 
 
