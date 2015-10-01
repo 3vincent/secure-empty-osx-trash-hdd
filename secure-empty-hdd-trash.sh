@@ -11,8 +11,10 @@ trashpath=/Users/$USER/.Trash/
 
 if [ -f /usr/bin/srm -a -d $trashpath ]; then 
 	/usr/bin/srm -svrz $trashpath
-	mkdir $trashpath
-	chmod 700 $trashpath
+	if [ ! -d $trashpath ]; then
+		mkdir $trashpath
+		chmod 700 $trashpath
+	fi
 	osascript -e 'tell app "System Events" to display dialog "The Trashcan is now empty."'
 
 else 
