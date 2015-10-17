@@ -13,14 +13,14 @@ You can download the [OS X gui version here](https://github.com/3vincent/secure-
 
 This script is basically a wrapper around the unix command srm. All it does is: 
 
-1) Running the srm command (secure remove)..  
-2) to overwrite the content of ~/.Trash/ and the directory itself..  
-3) and then recreates ~/.Trash/  
+1. Running the `srm` command (secure remove)  
+2. Overwrite the content of `~/.Trash/` and the directory itself  
+3. Recreate `~/.Trash/` 
 
 Just run the script in a Terminal, or double click the .app.  
 
 
-## 2. How to get it
+## 2. Download source and application
 
 You can download the [latest source code](https://github.com/3vincent/secure-empty-osx-trash-hdd/archive/master.zip), it should be very readable, since it only is beginners bash code. 
 
