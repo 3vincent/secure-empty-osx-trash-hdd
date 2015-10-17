@@ -9,7 +9,7 @@ This comes with no warranty.
 
 You can download the [OS X gui version here](https://github.com/3vincent/secure-empty-osx-trash-hdd/releases).
 
-## 1. What is does
+### 1. What is does
 
 This script is basically a wrapper around the unix command srm. All it does is: 
 
@@ -20,7 +20,7 @@ This script is basically a wrapper around the unix command srm. All it does is:
 Just run the script in a Terminal, or double click the .app.  
 
 
-## 2. Download source and application
+### 2. Download source and application
 
 You can download the [latest source code](https://github.com/3vincent/secure-empty-osx-trash-hdd/archive/master.zip), it should be very readable, since it only is beginners bash code. 
 
