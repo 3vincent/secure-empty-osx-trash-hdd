@@ -27,3 +27,12 @@ You can download the [latest source code](https://github.com/3vincent/secure-emp
 Or you can go to the [release page](https://github.com/3vincent/secure-empty-osx-trash-hdd/releases) where you can also download a **"pre-compiled"** version of the script. 
 
 Have fun erasing stuff
+
+
+Note
+-----
+
+SecureEraseHDDTrash.app will only empty the TrashCan that is located in your local user account. When you want to securely erase the trash of an external drive, you would need to move that file to your desktop and then put it into trash. Which is somehow useless, because the data would leave traces on the external harddrive.
+**Note:** This Program only works for stuff that is and has always been on your local harddrive, the one installed in your Mac.
+
+USE WITH CAUTION!
