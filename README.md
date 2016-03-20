@@ -17,16 +17,16 @@ This script is basically a wrapper around the unix command srm. All it does is:
 2. Overwrite the content of `~/.Trash/` and the directory itself  
 3. Recreate `~/.Trash/` 
 
-Just run the script in a Terminal, or double click the .app.  
+Just run the script in a Terminal Session, or double click the .app.  
 
 
 ### 2. Download source and application
 
-You can download the [latest source code](https://github.com/3vincent/secure-empty-osx-trash-hdd/archive/master.zip), it should be very readable, since it only is beginners bash code. 
+You can download the [latest source code](https://github.com/3vincent/secure-empty-osx-trash-hdd/archive/master.zip), it should be easy to understand, since it is only beginners bash code. 
 
 Or you can go to the [release page](https://github.com/3vincent/secure-empty-osx-trash-hdd/releases) where you can also download a **"pre-compiled"** version of the script. 
 
-Have fun erasing stuff
+***Have fun erasing stuff***
 
 
 Note
