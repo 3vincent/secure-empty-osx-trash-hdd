@@ -29,10 +29,10 @@ Or you can go to the [release page](https://github.com/3vincent/secure-empty-osx
 ***Have fun erasing stuff***
 
 
-Note
+IMPORTANT
 -----
 
-SecureEraseHDDTrash.app will only empty the TrashCan that is located in your local user account. When you want to securely erase the trash of an external drive, you would need to move that file to your desktop and then put it into trash. Which is somehow useless, because the data would leave traces on the external harddrive.  
+SecureEraseHDDTrash.app will only empty the TrashCan that is located in your local user account. You can not securely erase the trash can of an external drive. Even if you would move that file from the external harddrive to your desktop it would not work.
 **Note:** This Program only works for stuff that is and has always been on your local harddrive, the one installed in your Mac.
 
 USE WITH CAUTION!
